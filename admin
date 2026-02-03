@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>CARNET TENIS 2026/2027</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#001e62">
+
+    <link rel="icon" type="image/png" href="https://hebraica.org.ar/wp-content/uploads/elementor/thumbs/product-3582-qkfmnq1lxwdbeuygzsvsv93wjuoxqg5xtqvfu66vmo.png">
+
+    <style>
+        /* Reset total para pantalla completa */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            overflow: hidden; /* Evita scroll doble */
+            background-color: #001e62; /* Mismo color de fondo para evitar parpadeos */
+        }
+
+        /* Iframe que ocupa todo */
+        iframe {
+            border: none;
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    
+    <iframe src="https://script.google.com/macros/s/AKfycbxfXgjiaDPeM45gnox_5_DCsrR_cT5pZnEu93SXMBoFxYyZv6PxrB1ZuEQJFAhceYWblg/exec?v=admin"></iframe>
+
+</body>
+</html>
